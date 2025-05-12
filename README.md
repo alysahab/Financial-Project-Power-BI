@@ -1,4 +1,3 @@
-# Financial-Project-Power-BI
 # Automated Financial Data Analysis Pipeline
 
 ## Overview
